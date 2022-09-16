@@ -734,7 +734,7 @@ f. Tests and Examples
 	The list of keys:
 
 	'nM': normalised Mueller Matrix 
-	'M11': normalising Mueller Matrix Component M(1,1)
+	'M11': normalising Mueller Matrix Component M(1,1) [original MATLAB indexing notation]
 
 	'Mdetmsk': mask of the pixels with negative M determinant 
 	'Mphymsk': mask of the pixels satisfying the physical criterion
