@@ -1,8 +1,8 @@
 # libmpMuelMat
-The libmpMuelMat library is a multi-platform set of computational tools for polarimetric Mueller matrix image processing.
+The *libmpMuelMat* library is a multi-platform set of computational tools for polarimetric Mueller matrix image processing.
 
 The library builds on an integration of compiled C codebase and Python for an optimised and streamlined user experience.
-The libmpMuelMat library embeds high-performance computational algorithms, ported from state-of-the-art methods [1-4], and provides and optimised and stable interface for machine-learning designs, as well as, nearly real-time applications for translational and experimental set-ups.
+The *libmpMuelMat* library embeds high-performance computational algorithms, ported from state-of-the-art methods [1-4], and provides and optimised and stable interface for machine-learning designs, as well as, nearly real-time applications for translational and experimental set-ups.
 
 
 ![libmpMuelMat_logo](https://user-images.githubusercontent.com/35454056/190458107-ceac50e6-29dc-49b9-a319-2d29d30ccc8d.png)
